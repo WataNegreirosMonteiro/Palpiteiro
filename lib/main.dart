@@ -88,7 +88,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
-              '🏆 Craque do jogo 🏆',
+              '🏆 Craque do jogo 🏆.',
             ),
             Text(
               brazilianPlayers[_counter],
